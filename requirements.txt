@@ -1,0 +1,7 @@
+geopy==2.3.0
+ipywidgets==8.0.4
+matplotlib==3.7.1
+mpl_interactions==0.22.2
+mpl_point_clicker==0.3.1
+numpy==1.24.2
+pandas==1.5.3
