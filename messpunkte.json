@@ -1,0 +1,22 @@
+{
+  "traeger": {
+    "start": 2000,
+    "end": 12000
+  },
+  "auf_antenne": {
+    "start": 14000,
+    "end": 24000
+  },
+  "vor_antenne": {
+    "start": 24000,
+    "end": 34000
+  },
+  "hinter_antenne": {
+    "start": 35000,
+    "end": 46000
+  },
+  "messung": {
+    "start": 46000,
+    "end": 56000
+  }
+}
